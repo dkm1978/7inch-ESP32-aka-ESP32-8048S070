@@ -1,0 +1,2 @@
+# 7inch-ESP32-aka-ESP32-8048S070
+
